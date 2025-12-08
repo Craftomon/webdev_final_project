@@ -1,0 +1,169 @@
+GALLERY IMAGES (HTML)
+
+<!-- HERO's -->
+            <img
+              class="gallery-image"
+              src="assets/img/characters/HERO_DAMP-walk_down1.png"
+              alt="HERO DAMP 1"
+            />
+            <img
+              class="gallery-image"
+              src="assets/img/characters/HERO_DAMP-walk_down2.png"
+              alt="HERO DAMP 2"
+            />
+            <img
+              class="gallery-image"
+              src="assets/img/characters/HERO_GROWTH-walk_down1.png"
+              alt="HERO GROWTH 1"
+            />
+            <img
+              class="gallery-image"
+              src="assets/img/characters/HERO_GROWTH-walk_down2.png"
+              alt="HERO GROWTH 2"
+            />
+            <img
+              class="gallery-image"
+              src="assets/img/characters/HERO_WARMTH-walk_down1.png"
+              alt="HERO WARMTH 1"
+            />
+            <img
+              class="gallery-image"
+              src="assets/img/characters/HERO_WARMTH-walk_down2.png"
+              alt="HERO WARMTH 2"
+            />
+
+            <!-- Hoopa HAND2 -->
+            <img
+              class="gallery-image"
+              src="assets/img/characters/HoopaHAND2_-1Hoop_shiny.png"
+              alt="Hoopa Hand2 shiny -1 ring"
+            />
+            <img
+              class="gallery-image"
+              src="assets/img/characters/HoopaHAND2_-1Hoop.png"
+              alt="Hoopa Hand2 -1 ring"
+            />
+            <img
+              class="gallery-image"
+              src="assets/img/characters/HoopaHAND2_-2Hoops_shiny.png"
+              alt="Hoopa Hand2 shiny -2 rings"
+            />
+            <img
+              class="gallery-image"
+              src="assets/img/characters/HoopaHAND2_-2Hoops.png"
+              alt="Hoopa Hand2 -2 rings"
+            />
+            <img
+              class="gallery-image"
+              src="assets/img/characters/HoopaHAND2.png"
+              alt="Hoopa Hand2"
+            />
+
+            <!-- Hoopa HAND3 -->
+            <img
+              class="gallery-image"
+              src="assets/img/characters/HoopaHAND3_-1Hoop_shiny.png"
+              alt="Hoopa Hand3 shiny -1 ring"
+            />
+            <img
+              class="gallery-image"
+              src="assets/img/characters/HoopaHAND3_-1Hoop.png"
+              alt="Hoopa Hand3 -1 ring"
+            />
+            <img
+              class="gallery-image"
+              src="assets/img/characters/HoopaHAND3_-2Hoops_shiny.png"
+              alt="Hoopa Hand3 shiny -2 rings"
+            />
+            <img
+              class="gallery-image"
+              src="assets/img/characters/HoopaHAND3_-2Hoops.png"
+              alt="Hoopa Hand3 -2 rings"
+            />
+            <img
+              class="gallery-image"
+              src="assets/img/characters/HoopaHAND3.png"
+              alt="Hoopa Hand3"
+            />
+
+            <!-- Hoopa HAND4 -->
+            <img
+              class="gallery-image"
+              src="assets/img/characters/HoopaHAND4_-1Hoop_shiny.png"
+              alt="Hoopa Hand4 shiny -1 ring"
+            />
+            <img
+              class="gallery-image"
+              src="assets/img/characters/HoopaHAND4_-1Hoop.png"
+              alt="Hoopa Hand4 -1 ring"
+            />
+            <img
+              class="gallery-image"
+              src="assets/img/characters/HoopaHAND4_-2Hoops_shiny.png"
+              alt="Hoopa Hand4 shiny -2 rings"
+            />
+            <img
+              class="gallery-image"
+              src="assets/img/characters/HoopaHAND4_-2Hoops.png"
+              alt="Hoopa Hand4 -2 rings"
+            />
+            <img
+              class="gallery-image"
+              src="assets/img/characters/HoopaHAND4.png"
+              alt="Hoopa Hand4"
+            />
+
+            <!-- Misc Characters -->
+            <img
+              class="gallery-image"
+              src="assets/img/characters/HoopaHANDleft.png"
+              alt="Hoopa Hand left"
+            />
+            <img
+              class="gallery-image"
+              src="assets/img/characters/HoopaHurt.png"
+              alt="Hoopa hurt"
+            />
+            <img
+              class="gallery-image"
+              src="assets/img/characters/Necrozma_The_Roaring_Knight_1.png"
+              alt="Necrozma 1"
+            />
+            <img
+              class="gallery-image"
+              src="assets/img/characters/Necrozma_The_Roaring_Knight_2.jpeg"
+              alt="Necrozma 2"
+            />
+            <img
+              class="gallery-image"
+              src="assets/img/characters/Ultra_Necrozma_Penumbra_Phantasm_1.png"
+              alt="Ultra Necrozma 1"
+            />
+            <img
+              class="gallery-image"
+              src="assets/img/characters/Ultra_Necrozma_Penumbra_Phantasm_2.jpeg"
+              alt="Ultra Necrozma 2"
+            />
+            <img
+              class="gallery-image"
+              src="assets/img/characters/Torch_REVAMPED_hurt.png"
+              alt="Torch hurt"
+            />
+            <img
+              class="gallery-image"
+              src="assets/img/characters/Torch_REVAMPED_shiny_hurt.png"
+              alt="Torch shiny hurt"
+            />
+            <img
+              class="gallery-image"
+              src="assets/img/characters/Zamazenta(CROWNED)_middle_frame_shiny.png"
+              alt="Zamazenta Crowned shiny"
+            />
+            <img
+              class="gallery-image"
+              src="assets/img/characters/Zamazenta(CROWNED)_middle_frame.png"
+              alt="Zamazenta Crowned"
+            />
+            <!-- continue adding all character images -->
+          </div>
+        </div>
